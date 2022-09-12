@@ -1,4 +1,4 @@
-package Conceptos;
+package ConceptosBasicos;
 
 public class Funciones {
     public static void holamundo(){
